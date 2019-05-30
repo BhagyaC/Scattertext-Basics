@@ -1,0 +1,2 @@
+# Scattertext-Basics
+Familiarize scattertext
